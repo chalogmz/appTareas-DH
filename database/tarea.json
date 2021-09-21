@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Leer libro",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Lavar ropa",
+        "estado": "completo"
+    },
+    {
+        "titulo": "Lavar platos",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Hacer comida",
+        "estado": "completo"
+    },
+    {
+        "titulo": "Hacer comida",
+        "estado": "completo"
+    },
+    {
+        "titulo": "Hacer comida",
+        "estado": "completo"
+    },
+    {
+        "titulo": "Hacer comida",
+        "estado": "completo"
+    },
+    {
+        "titulo": "Hacer comida",
+        "estado": "completo"
+    },
+    {
+        "titulo": "Hacer tarea",
+        "estado": "completo"
+    },
+    {
+        "titulo": "Sacar al perro",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Limpiar arenero",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Hacer mercado",
+        "estado": "completo"
+    }
+]
